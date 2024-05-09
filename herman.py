@@ -1,5 +1,5 @@
-import streamlit as st.
+import streamlit as st
 st.write("hey there hope ur doing well")
-import pandas as pd.
+import pandas as pd
 pd.write("hello come see this")
 
